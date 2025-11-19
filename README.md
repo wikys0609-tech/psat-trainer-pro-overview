@@ -23,10 +23,10 @@
 
 ## 🖼️ 화면 구성 (Screenshots)
 * **메인 화면:** ![Main]
-* <img width="1392" height="734" alt="image" src="https://github.com/user-attachments/assets/3ce31c04-803a-45a5-ba09-68e0f88ac70e" />
+<img width="1392" height="734" alt="image" src="https://github.com/user-attachments/assets/3ce31c04-803a-45a5-ba09-68e0f88ac70e" />
 
 * **타임 어택 화면:** ![TimeAttack]
-* <img width="1554" height="662" alt="image" src="https://github.com/user-attachments/assets/b2802859-fa39-4d85-965c-44f547e409a0" />
+<img width="1554" height="662" alt="image" src="https://github.com/user-attachments/assets/b2802859-fa39-4d85-965c-44f547e409a0" />
 
 
 ## 🚀 트러블 슈팅 & 배운 점 (Troubleshooting & Lessons Learned)
